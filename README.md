@@ -33,4 +33,7 @@
 - [同济大学 Superpower 战队第 27 赛季培训视频合集](https://www.bilibili.com/video/BV1Sce86XEcd)，由 [同济大学 Superpower 战队官方 B 站账号](https://space.bilibili.com/651837546) 发布。
   感谢该账号公开分享的 27 赛季培训视频，本仓库的培训内容参考了算法组相关的培训视频。
 
+- [DR_CAN 的 【卡尔曼滤波器】 系列合集](https://www.bilibili.com/video/BV1ez4y1X7eR)，由 [DR_CAN 的 B 站账号](https://space.bilibili.com/230105574) 发布。
+  感谢老师关于卡尔曼滤波的讲解，本次培训中也借用了老师编写的卡尔曼滤波仿真来教学卡尔曼滤波的内容。
+
 > 以上资源版权归原作者及原团队所有，本仓库仅用于学习、培训与交流。如涉及版权问题，请联系维护者处理。
